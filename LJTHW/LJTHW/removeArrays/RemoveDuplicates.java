@@ -1,4 +1,4 @@
-
+package removeArrays;
 public class RemoveDuplicates {
 
 		// TODO Auto-generated constructor stub
